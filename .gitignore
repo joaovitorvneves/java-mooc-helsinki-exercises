@@ -26,3 +26,6 @@ nb-configuration.xml
 /part01-Part01_04.Dinosaur/target/
 /part01-Part01_12.IntegerInput/target/
 /part01-Part01_32.OddOrEven/target/
+
+# Ignorar script de automação temporariamente
+commit_all_parts.sh
