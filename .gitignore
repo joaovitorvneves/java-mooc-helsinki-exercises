@@ -1,0 +1,28 @@
+# Created by https://www.toptal.com/developers/gitignore/api/java,netbeans
+### Java ###
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+replay_pid*
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+.nb-user/
+nb-configuration.xml
+/part01-Part01_04.Dinosaur/target/
+/part01-Part01_12.IntegerInput/target/
+/part01-Part01_32.OddOrEven/target/
